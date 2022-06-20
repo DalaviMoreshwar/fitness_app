@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/DalviMoreshwar/fitness_app/static/css/main.aafaad2d.css",
-    "main.js": "/DalviMoreshwar/fitness_app/static/js/main.a2648916.js",
-    "static/media/banner.png": "/DalviMoreshwar/fitness_app/static/media/banner.5209b5e92a864ca0c615.png",
-    "static/media/gym.png": "/DalviMoreshwar/fitness_app/static/media/gym.6e701417c428e2fbc267.png",
-    "index.html": "/DalviMoreshwar/fitness_app/index.html",
-    "main.aafaad2d.css.map": "/DalviMoreshwar/fitness_app/static/css/main.aafaad2d.css.map",
-    "main.a2648916.js.map": "/DalviMoreshwar/fitness_app/static/js/main.a2648916.js.map"
+    "main.css": "/fitness_app/static/css/main.aafaad2d.css",
+    "main.js": "/fitness_app/static/js/main.0ba2a57b.js",
+    "static/media/banner.png": "/fitness_app/static/media/banner.5209b5e92a864ca0c615.png",
+    "static/media/gym.png": "/fitness_app/static/media/gym.6e701417c428e2fbc267.png",
+    "index.html": "/fitness_app/index.html",
+    "main.aafaad2d.css.map": "/fitness_app/static/css/main.aafaad2d.css.map",
+    "main.0ba2a57b.js.map": "/fitness_app/static/js/main.0ba2a57b.js.map"
   },
   "entrypoints": [
     "static/css/main.aafaad2d.css",
-    "static/js/main.a2648916.js"
+    "static/js/main.0ba2a57b.js"
   ]
 }
