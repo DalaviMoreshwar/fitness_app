@@ -1,7 +1,7 @@
 {
+  "homepage": "https://DalviMoreshwar.github.io/fitness_app",
   "name": "fitness_app",
   "version": "0.1.0",
-  "homepage": "https://github.com/DalviMoreshwar/fitness_app",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.9.0",
